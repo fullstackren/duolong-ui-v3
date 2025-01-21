@@ -1,1 +1,1 @@
-# duolong-ui-v3
+# LangChain 中文
