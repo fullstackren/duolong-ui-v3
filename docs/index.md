@@ -73,5 +73,4 @@ import { NEWS_DATA } from './components/df-mine/df-news-data.ts';
     opacity: 0.8;
   }
 }
-
 </style>
