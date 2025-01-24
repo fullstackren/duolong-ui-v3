@@ -6,6 +6,7 @@ export const sidebar: DefaultTheme.Config['sidebar'] = {
       text: '文档指南',
       items: [
         { text: '内心要说的话', link: '/guide/index' },
+        { text: 'LangChain的独白', link: '/guide/introduction' },
       ]
     }
   ],
